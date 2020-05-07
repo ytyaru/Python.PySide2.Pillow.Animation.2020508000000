@@ -24,6 +24,7 @@ webp|![animation.webp](doc/animation.webp)
 * Qt 5.11
 * Python 3.7.3
 * PySide2
+* Pillow 7.1.2
 
 ```sh
 $ uname -a
